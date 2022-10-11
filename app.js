@@ -1,5 +1,6 @@
 const main = document.querySelector("main");
 
+// Mock de dados
 const humanExpressions = [
   { img: "./img/drink.jpg", text: "Estou com sede" },
   { img: "./img/food.jpg", text: "Estou com fome" },
